@@ -12,7 +12,9 @@ Business Task: Analyze FitBit Fitness Tracker App data to gain insights into how
 Business Objectives:
 
 -What are the trends identified?
+
 -How could these trends apply to Bellabeat customers?
+
 -How could these trends help influence Bellabeat marketing strategy?
 
 Tools:
