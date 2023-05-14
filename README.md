@@ -1,4 +1,4 @@
-# google-data-analytics-capstone-project
+# Google-Data-Analytics-Capstone-Project
 
 This analysis is an optional Capstone project from the Google Data Analytics Professional Certificate on Coursera.
 
