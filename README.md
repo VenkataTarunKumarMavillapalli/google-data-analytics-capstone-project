@@ -1,7 +1,5 @@
 # Google-Data-Analytics-Capstone-Project
 
-This analysis is an optional Capstone project from the Google Data Analytics Professional Certificate.
-
 Foundations - Using data in everyday life, Thinking analytically, Applying tools from the data analytics toolkit, Showing trends and patterns with data visualizations, Ensuring your data analysis is fair
 
 ASK - Asking SMART and effective questions, Structuring how you think, Summarizing data, Putting things into context, Managing team and stakeholder expectations, Problem-solving and conflict-resolution
@@ -38,3 +36,6 @@ Tools:
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
 Data Set: The data set is publicly available on Kaggle.
+
+This analysis is an optional Capstone project from the Google Data Analytics Professional Certificate.
+
